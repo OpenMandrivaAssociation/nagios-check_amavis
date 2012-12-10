@@ -45,3 +45,10 @@ rm -rf %{buildroot}
 %{_datadir}/nagios/plugins/%{plugin}.pl
 
 
+
+
+%changelog
+* Sun Jan 15 2012 Luis Daniel Lucio Quiroz <dlucio@mandriva.org> 1.1-1mdv2011.0
++ Revision: 761637
+- import nagios-check_amavis
+
