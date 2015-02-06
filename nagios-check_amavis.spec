@@ -3,7 +3,7 @@
 Summary:	Check Amavis
 Name:		nagios-%{plugin}
 Version:	1.1
-Release:	%mkrel 1
+Release:	2
 Group:		Networking/Other
 License:	GPL
 URL:		 http://exchange.nagios.org/directory/Plugins/Anti-2DVirus/Amavis/check_amavis/details
