@@ -6,7 +6,7 @@ Version:	1.1
 Release:	2
 Group:		Networking/Other
 License:	GPL
-URL:		 http://exchange.nagios.org/directory/Plugins/Anti-2DVirus/Amavis/check_amavis/details
+URL:		 https://exchange.nagios.org/directory/Plugins/Anti-2DVirus/Amavis/check_amavis/details
 Source0:	%{plugin}.pl
 BuildArch:	noarch
 BuildRequires:	perl
